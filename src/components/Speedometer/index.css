@@ -1,0 +1,53 @@
+/* Write your CSS here */
+.img-container {
+  height: 300px;
+}
+
+.container {
+  text-align: center;
+  padding-top: 100px;
+  background-color: black;
+  height: 100vh;
+}
+
+.para-1 {
+  font-size: 30px;
+  color: white;
+}
+.para-2 {
+  color: white;
+}
+
+.heading {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 50px;
+}
+
+.button-container {
+  /* text-align: center; */
+  padding-top: 20px;
+}
+
+.but-1 {
+  background-color: blue;
+  color: white;
+  margin-right: 12px;
+  font-size: 14px;
+  border-radius: 8px;
+  padding: 14px;
+  cursor: pointer;
+  outline: none;
+}
+
+.but-2 {
+  background-color: transparent;
+  color: white;
+  margin-left: 12px;
+  font-size: 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  border-color: white;
+  padding: 14px;
+  outline: none;
+}
